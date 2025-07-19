@@ -1,5 +1,5 @@
 {
-  "name": "Compound",
+  "name": "Nexswap",
   "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/nexus.png",
   "keywords": [
     "nexus",
@@ -16,12 +16,12 @@
       "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/metamask.png"
     },
     {
-      "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "name": "Compound USD Coin",
-      "symbol": "cUSDC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+      "chainId": 3940,
+      "address": "0xE3d432Cb6dFf9a53E1ca217E95d9C9e3bcFa517a",
+      "name": "GNexus",
+      "symbol": "GNEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/metamask.png"
     }
   ],
   "version": {
