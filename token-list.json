@@ -9,24 +9,32 @@
   "tokens": [
     {
       "chainId": 3940,
-      "address": "0xE3d432Cb6dFf9a53E1ca217E95d9C9e3bcFa517a",
-      "name": "GNexus",
-      "symbol": "GNEX",
+      "address": "0x3eC55271351865ab99a9Ce92272C3E908f2E627b",
+      "name": "Nexswap",
+      "symbol": "NXS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/metamask.png"
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/NXS.jpg"
     },
     {
       "chainId": 3940,
-      "address": "0xE3d432Cb6dFf9a53E1ca217E95d9C9e3bcFa517a",
-      "name": "GNexus",
-      "symbol": "GNEX",
+      "address": "0x184eE44cF8B7Fec2371dc46D9076fFB2c1E0Ce65",
+      "name": "Nexian",
+      "symbol": "NEXI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/metamask.png"
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/NEXI.jpg"
+    },
+    {
+      "chainId": 3940,
+      "address": "0xF6f61565947621387ADF3BeD7ba02533aB013CCd",
+      "name": "AI Era",
+      "symbol": "AIE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/AIE.jpg"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
