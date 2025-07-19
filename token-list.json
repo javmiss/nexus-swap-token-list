@@ -13,7 +13,7 @@
       "name": "Nexswap",
       "symbol": "NXS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/NXS.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/NXS.png"
     },
     {
       "chainId": 3940,
@@ -21,7 +21,7 @@
       "name": "Nexian",
       "symbol": "NEXI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/NEXI.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/NEXI.png"
     },
     {
       "chainId": 3940,
@@ -29,12 +29,12 @@
       "name": "AI Era",
       "symbol": "AIE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/AIE.jpg"
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/AIE.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
