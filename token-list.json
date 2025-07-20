@@ -30,11 +30,19 @@
       "symbol": "AIE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Amarudinn/nexus-dapps/main/images/AIE.png"
+    },
+    {
+      "chainId": 3940,
+      "address": "0x8f73Cba01293150ea0B0052ebC6cc01232c54B69",
+      "name": "NexXMeme",
+      "symbol": "NEXE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/javmiss/nexus-token-assets/main/NexXMeme.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
